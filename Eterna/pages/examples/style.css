@@ -1,0 +1,24 @@
+.upload-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  #fileInput {
+    margin-bottom: 10px;
+  }
+  
+  #uploadButton {
+    padding: 10px 20px;
+    border: blue;
+    cursor: pointer;
+  }
+  
+ 
+  
+  #status {
+    font-size: 8px;
+  }
+  
+  
